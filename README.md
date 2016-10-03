@@ -1,1 +1,6 @@
-# danongmin
+# danongmin 
+
+<?php
+
+phpinfo();
+?>
